@@ -15,16 +15,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I am Varzika Tiwari
+  Hi, I am Varzika Tiwari 
   <br>
   <br>
-  🔬 I'm currently studying & exploring.
+  🔬 I'm currently studying & exploring.🔬
   <br>
-  💻 I love writing code and implementing it.
+  💻 I love writing code and implementing it.💻
   <br>
-  📚 
+  📚 Made many projects on different languages.📚
   <br>
-  📫 How to reach me: <a href="mailto: varzikatiwari08@gmail.com">varzikatiwari08@gmail.com</a>
+  📫 How to reach me: <a href="mailto: varzikatiwari08@gmail.com">varzikatiwari08@gmail.com</a>📫
 </p>
 
 <hr>
@@ -86,7 +86,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/VarzikaT/R-programs" title="Questions for R-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
