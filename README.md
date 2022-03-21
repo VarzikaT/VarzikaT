@@ -30,7 +30,7 @@
 <h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="28" src="images/C.png"></code>
+  <code><img title="C" height="38" src="images/C.png"></code>
   <code><img title="C++" height="28" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="28" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="28" src="images/ps.jpg"></code>
