@@ -10,6 +10,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/varzikatiwari08/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <br><br>
   <code><a href="https://www.hackerrank.com/varzika_tiwari" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
@@ -30,18 +31,18 @@
 <h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="38" src="images/C.png"></code>
-  <code><img title="C++" height="28" src="images/cpp.svg"></code>
-  <code><img title="Javascript" height="28" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="28" src="images/ps.jpg"></code>
-  <code><img title="HTML5" height="28" src="images/html5.svg"></code>
-  <code><img title="CSS" height="28" src="images/css.svg"></code>
-  <code><img title="Git" height="28" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="28" src="images/vscode.png"></code>
-  <code><img title="Java" height="28" src="images/java-original.svg"></code>>
-  <code><img title="R" height="28" src="images/download.png"></code>
-  <code><img title="GitHub" height="28" src="images/github.svg"></code>
-  <code><img title="MySQL" height="28" src="images/mysql.svg"></code>
+  <code><img title="C" height="30" src="images/C.png"></code>
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="30" src="images/ps.jpg"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Git" height="30" src="images/git.png"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>>
+  <code><img title="R" height="30" src="images/download.png"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+  <code><img title="MySQL" height="30" src="images/mysql.jpg"></code>
 </p>
 <hr>
 
