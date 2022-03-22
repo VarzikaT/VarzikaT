@@ -12,7 +12,7 @@
   <code><a href="https://www.hackerrank.com/varzika_tiwari" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
-<p align="center" height="60">
+<p align="center">
   Hi, I am Varzika Tiwari 
   <br>
   <br>
