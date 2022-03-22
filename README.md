@@ -53,7 +53,7 @@
     <a href="https://github.com/VarzikaT/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VarzikaT&theme=react&border=61dafb&hide_border=true" alt="Varzika" />
     </a>
-    <a href="https://github.com/VarzikaT/github-readme-stats" title="Go to Source">
+   <a href="https://github.com/VarzikaT/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=VarzikaT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -64,9 +64,9 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=VarzikaT&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <!-- <img src="https://activity-graph.herokuapp.com/graph?username=VarzikaT&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+-->
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
