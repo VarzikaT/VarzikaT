@@ -73,17 +73,17 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/VarzikaT/MondeCollections" title="Monde Collections"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=MondeCollections&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VarzikaT/React-Native-THA" title="React-Native Apps"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=React-Native-THA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VarzikaT/React-Native-THA" title="React-Native Apps"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=React-Native-THA&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/VarzikaT/Full-Stack_prac1" title="Basic Front-end Implementation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=Full-Stack_prac1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VarzikaT/Full-Stack_prac1" title="Basic Front-end Implementation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=Full-Stack_prac1&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/VarzikaT/JavaQues" title="Basic Java Questions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=JavaQues&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/VarzikaT/R-programs" title="Website for investing & discovering"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=R-programs&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VarzikaT/DSAQuestions" title="Practcise DSA Questions"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=DSAQuestions&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VarzikaT/DSAQuestions" title="Practcise DSA Questions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=DSAQuestions&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
