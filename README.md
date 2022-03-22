@@ -39,7 +39,7 @@
   <code><img title="CSS" height="30" src="images/css.svg"></code>
   <code><img title="Git" height="30" src="images/git.png"></code>
   <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
   <code><img title="R" height="30" src="images/download.png"></code>
   <code><img title="GitHub" height="30" src="images/github.svg"></code>
   <code><img title="MySQL" height="30" src="images/mysql.jpg"></code>
@@ -69,10 +69,11 @@
 -->
 <hr>
 
-<!--<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/VarzikaT/MondeCollections" title="Monde Collections"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VarzikaT/MondeCollections" title="Monde Collections"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=MondeCollections&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--
   <a align="left" href="https://github.com/VarzikaT/React-Native-THA" title="React-Native Apps"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VarzikaT&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
