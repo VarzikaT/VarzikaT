@@ -12,7 +12,7 @@
   <code><a href="https://www.hackerrank.com/varzika_tiwari" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="center" height="60">
   Hi, I am Varzika Tiwari 
   <br>
   <br>
@@ -30,17 +30,17 @@
 <br>
 <p align="center">
   <code><img title="C" height="50" src="images/C.png"></code>
-  <code><img title="C++" height="30" src="images/cpp.svg"></code>
-  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="30" src="images/ps.jpg"></code>
-  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
-  <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="Git" height="30" src="images/git.png"></code>
-  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>
-  <code><img title="R" height="30" src="images/download.png"></code>
-  <code><img title="GitHub" height="30" src="images/github.svg"></code>
-  <code><img title="MySQL" height="30" src="images/mysql.jpg"></code>
+  <code><img title="C++" height="50" src="images/cpp.svg"></code>
+  <code><img title="Javascript" height="50" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="50" src="images/ps.jpg"></code>
+  <code><img title="HTML5" height="50" src="images/html5.svg"></code>
+  <code><img title="CSS" height="50" src="images/css.svg"></code>
+  <code><img title="Git" height="50" src="images/git.png"></code>
+  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
+  <code><img title="Java" height="50" src="images/java-original.svg"></code>
+  <code><img title="R" height="50" src="images/download.png"></code>
+  <code><img title="GitHub" height="50" src="images/github.svg"></code>
+  <code><img title="MySQL" height="50" src="images/mysql.jpg"></code>
 </p>
 <hr>
 
