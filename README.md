@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=HHello!+I'm+Varzika+😀....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/varzikatiwari08/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
