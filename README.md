@@ -29,7 +29,7 @@
 <h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="30" src="images/C.png"></code>
+  <code><img title="C" height="50" src="images/C.png"></code>
   <code><img title="C++" height="30" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/ps.jpg"></code>
@@ -91,10 +91,7 @@
   <a href="https://github.com/VarzikaT?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
--->
-<!--
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -106,6 +103,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good. -->
 
--->
